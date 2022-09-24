@@ -16,6 +16,7 @@
 h1 {
     font-family: Gasalt-Black;
     text-transform: uppercase;
+    font-weight: bolder;
 }
 
 p {
@@ -53,16 +54,16 @@ div {
 
 .link:hover {
     font-family: Arial;
-    background-color: blue;
+    background-color: rgb(44, 165, 212);
     lighting-color: white;
     color: white;
-    width: 70%;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 50px;
-    border-top-left-radius: 50px;
-    border-top-right-radius: 50px;
-    border-bottom-left-radius: 50px;
-    border-bottom-right-radius: 50px;
+    border-top-left-radius: 80px;
+    border-top-right-radius: 80px;
+    border-bottom-left-radius: 80px;
+    border-bottom-right-radius: 80px;
     
 }
